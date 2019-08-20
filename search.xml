@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[如何书写博客]]></title>
+    <url>%2F2019%2F08%2F20%2F%E5%A6%82%E4%BD%95%E4%B9%A6%E5%86%99%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[这里是博客正文，参考第一篇文章。]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[并发编程]]></title>
+    <url>%2F2019%2F08%2F20%2F%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[这里是正文，等博主有空再写~]]></content>
+      <categories>
+        <category>并发编程</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+        <tag>并发</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[如何书写MarkDown博客]]></title>
     <url>%2F2019%2F08%2F19%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
@@ -8,8 +31,7 @@
         <category>passage</category>
       </categories>
       <tags>
-        <tag>标签一</tag>
-        <tag>标签二</tag>
+        <tag>MarkDown</tag>
       </tags>
   </entry>
 </search>
