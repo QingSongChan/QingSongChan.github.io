@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-19T08:47:56.062Z</updated>
+  <updated>2019-08-20T03:45:15.385Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/08/20/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF/"/>
+    <id>http://yoursite.com/2019/08/20/并发编程的艺术/</id>
+    <published>2019-08-20T03:38:45.968Z</published>
+    <updated>2019-08-20T03:45:15.385Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title: 并发编程的艺术<br>date: 2019-08-20 11:38:45<br>categories:Java<br>tags:并发编程<br>description:让我们一起感受并发编程艺术之美~<br>​—</p><p>666</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;p&gt;title: 并发编程的艺术&lt;br&gt;date: 2019-08-20 11:38:45&lt;br&gt;categories:Java&lt;br&gt;tags:并发编程&lt;br&gt;description:让我们一起感受并发编程艺术之美~&lt;br&gt;​—&lt;/p&gt;
+&lt;p&gt;666&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -34,6 +58,30 @@
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>这是一篇博客文章模板</title>
+    <link href="http://yoursite.com/2015/03/02/%E5%A6%82%E4%BD%95%E4%B9%A6%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2015/03/02/如何书写博客/</id>
+    <published>2015-03-01T16:00:00.000Z</published>
+    <updated>2019-08-20T03:45:58.519Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里是博客正文。</p>]]></content>
+    
+    <summary type="html">
+    
+      文章金句。
+    
+    </summary>
+    
+      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+    
+    
+      <category term="标签一" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE%E4%B8%80/"/>
+    
+      <category term="标签二" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE%E4%BA%8C/"/>
     
   </entry>
   
