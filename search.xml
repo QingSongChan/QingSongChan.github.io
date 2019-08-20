@@ -12,28 +12,4 @@
         <tag>标签二</tag>
       </tags>
   </entry>
-  <entry>
-    <title><![CDATA[这是一篇博客文章模板]]></title>
-    <url>%2F2019%2F08%2F19%2F%E5%A6%82%E4%BD%95%E4%B9%A6%E5%86%99%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[这里是博客正文。]]></content>
-      <categories>
-        <category>blog</category>
-      </categories>
-      <tags>
-        <tag>标签一</tag>
-        <tag>标签二</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[并发编程艺术]]></title>
-    <url>%2F2019%2F08%2F19%2F%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF%2F</url>
-    <content type="text"><![CDATA[这里是博客正文。]]></content>
-      <categories>
-        <category>blog</category>
-      </categories>
-      <tags>
-        <tag>标签一</tag>
-        <tag>标签二</tag>
-      </tags>
-  </entry>
 </search>
